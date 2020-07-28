@@ -1,0 +1,40 @@
+{
+  "customers": [
+    {
+      "id": "1",
+      "name": "John Doe",
+      "email": "jsod@gmail.com",
+      "age": 30
+    },
+    {
+      "id": "2",
+      "name": "Jeejo Dos",
+      "email": "jeejo@gmail.com",
+      "age": 25
+    },
+    {
+      "id": "3",
+      "name": "Anton jack",
+      "email": "anton@gmail.com",
+      "age": 24
+    },
+    {
+      "id": "5",
+      "name": "Jack Andrew",
+      "email": "jkandr@gmail.com",
+      "age": 30
+    },
+    {
+      "id": "6",
+      "name": "David Millain",
+      "email": "davids@gmail.com",
+      "age": 24
+    },
+    {
+      "name": "White Tels",
+      "email": "whitel@gmail.com",
+      "age": 37,
+      "id": "Eixdzi3"
+    }
+  ]
+}
